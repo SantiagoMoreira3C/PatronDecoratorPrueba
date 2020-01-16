@@ -1,0 +1,5 @@
+C:\Users\Santiago Moreira\source\repos\PatronDecoratorPrueba\bin\Debug\PatronDecoratorPrueba.exe.config
+C:\Users\Santiago Moreira\source\repos\PatronDecoratorPrueba\bin\Debug\PatronDecoratorPrueba.exe
+C:\Users\Santiago Moreira\source\repos\PatronDecoratorPrueba\bin\Debug\PatronDecoratorPrueba.pdb
+C:\Users\Santiago Moreira\source\repos\PatronDecoratorPrueba\obj\Debug\PatronDecoratorPrueba.exe
+C:\Users\Santiago Moreira\source\repos\PatronDecoratorPrueba\obj\Debug\PatronDecoratorPrueba.pdb
